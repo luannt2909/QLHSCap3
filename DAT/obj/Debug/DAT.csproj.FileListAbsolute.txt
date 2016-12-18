@@ -1,0 +1,64 @@
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\bin\Debug\DAT.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\bin\Debug\DAT.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\bin\Debug\DTO.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\bin\Debug\DTO.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.ConnectDatabase.frmConnectDatabase.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.csproj.GenerateResource.Cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\bin\Debug\DAT.dll.config
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DAT\obj\Debug\DAT.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\bin\Debug\DAT.dll.config
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.ConnectDatabase.frmConnectDatabase.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DAT\obj\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\DAT.dll.config
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.ConnectDatabase.frmConnectDatabase.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\DAT\obj\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\DAT.dll.config
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.ConnectDatabase.frmConnectDatabase.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DAT\obj\Debug\DAT.pdb
+E:\QLHS\QLHS\DAT\bin\Debug\Script\KiemTraCSDL.sql
+E:\QLHS\QLHS\DAT\bin\Debug\Script\TaoDuLieuMau.sql
+E:\QLHS\QLHS\DAT\bin\Debug\Script\TaoMoiCSDL.sql
+E:\QLHS\QLHS\DAT\bin\Debug\DAT.dll.config
+E:\QLHS\QLHS\DAT\bin\Debug\DAT.dll
+E:\QLHS\QLHS\DAT\bin\Debug\DAT.pdb
+E:\QLHS\QLHS\DAT\bin\Debug\DTO.dll
+E:\QLHS\QLHS\DAT\bin\Debug\DTO.pdb
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.csprojResolveAssemblyReference.cache
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.ConnectDatabase.frmConnectDatabase.resources
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.Properties.Resources.resources
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.csproj.GenerateResource.Cache
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.dll
+E:\QLHS\QLHS\DAT\obj\Debug\DAT.pdb

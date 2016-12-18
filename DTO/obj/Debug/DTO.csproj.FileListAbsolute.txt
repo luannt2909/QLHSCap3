@@ -1,0 +1,19 @@
+c:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DTO\bin\Debug\DTO.dll
+c:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DTO\bin\Debug\DTO.pdb
+c:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DTO\obj\Debug\DTO.dll
+c:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DTO\obj\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DTO\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DTO\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DTO\obj\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\DTO\obj\Debug\DTO.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DTO\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DTO\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DTO\obj\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\DTO\obj\Debug\DTO.pdb
+E:\QLHS\QLHS\DTO\bin\Debug\DTO.dll
+E:\QLHS\QLHS\DTO\bin\Debug\DTO.pdb
+E:\QLHS\QLHS\DTO\obj\Debug\DTO.dll
+E:\QLHS\QLHS\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,54 @@
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\BUS.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\BUS.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\DAT.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\DTO.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\DAT.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\bin\Debug\DTO.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\obj\Debug\BUS.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\BUS\obj\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\obj\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\BUS\obj\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\obj\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\BUS\obj\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\obj\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\BUS\obj\Debug\BUS.pdb
+E:\QLHS\QLHS\BUS\bin\Debug\Script\KiemTraCSDL.sql
+E:\QLHS\QLHS\BUS\bin\Debug\Script\TaoDuLieuMau.sql
+E:\QLHS\QLHS\BUS\bin\Debug\Script\TaoMoiCSDL.sql
+E:\QLHS\QLHS\BUS\bin\Debug\BUS.dll
+E:\QLHS\QLHS\BUS\bin\Debug\BUS.pdb
+E:\QLHS\QLHS\BUS\bin\Debug\DAT.dll
+E:\QLHS\QLHS\BUS\bin\Debug\DTO.dll
+E:\QLHS\QLHS\BUS\bin\Debug\DAT.pdb
+E:\QLHS\QLHS\BUS\bin\Debug\DTO.pdb
+E:\QLHS\QLHS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\QLHS\QLHS\BUS\obj\Debug\BUS.dll
+E:\QLHS\QLHS\BUS\obj\Debug\BUS.pdb

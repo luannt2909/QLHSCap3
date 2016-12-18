@@ -1,0 +1,140 @@
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\GUI.exe
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\GUI.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\BUS.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\DAT.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\DTO.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\BUS.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\DAT.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\DTO.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmBaoCao.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmQuanLyLopHoc.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmHocSinh.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmQuanLyHocSinh.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmQuanLyMonHoc.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmQuanTri.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmQuyDinh.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmThongTinPhanMem.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmTraCuu.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.exe
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\GUI.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmQuanLyLopHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmQuanLyHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmQuanLyMonHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmQuanTri.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmQuyDinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmThongTinPhanMem.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.frmTraCuu.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\QLHS\GUI\obj\Debug\GUI.pdb
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\obj\Debug\GUI.frmDangKy.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\itextsharp.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Ryan\documents\visual studio 2013\Projects\QLHS\GUI\bin\Debug\itextsharp.xml
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\GUI.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\itextsharp.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\itextsharp.xmlworker.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\bin\Debug\itextsharp.xml
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmDangKy.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmQuanLyLopHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmQuanLyHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmQuanLyMonHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmQuanTri.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmQuyDinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmThongTinPhanMem.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.frmTraCuu.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\QLHS - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\Script\KiemTraCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\Script\TaoDuLieuMau.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\Script\TaoMoiCSDL.sql
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\GUI.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\BUS.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\DAT.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\DTO.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\itextsharp.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\itextsharp.xmlworker.dll
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\BUS.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\DAT.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\DTO.pdb
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\bin\Debug\itextsharp.xml
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmDangKy.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmQuanLyLopHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmQuanLyHocSinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmQuanLyMonHoc.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmQuanTri.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmQuyDinh.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmThongTinPhanMem.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.frmTraCuu.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.exe
+E:\Học Tập\Năm 2\Học Kỳ 2 (2015)\Nhập Môn Công Nghệ Phần Mềm\Slide\Đỗ Thị Thanh Tuyền\Đồ Án Trên Lớp\Đồ Án\New folder\New folder\QLHS\GUI\obj\Debug\GUI.pdb
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.exe
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.pdb
+E:\QLHS\QLHS\GUI\bin\Debug\Script\KiemTraCSDL.sql
+E:\QLHS\QLHS\GUI\bin\Debug\Script\TaoDuLieuMau.sql
+E:\QLHS\QLHS\GUI\bin\Debug\Script\TaoMoiCSDL.sql
+E:\QLHS\QLHS\GUI\bin\Debug\GUI.exe
+E:\QLHS\QLHS\GUI\bin\Debug\GUI.pdb
+E:\QLHS\QLHS\GUI\bin\Debug\BUS.dll
+E:\QLHS\QLHS\GUI\bin\Debug\DAT.dll
+E:\QLHS\QLHS\GUI\bin\Debug\DTO.dll
+E:\QLHS\QLHS\GUI\bin\Debug\itextsharp.dll
+E:\QLHS\QLHS\GUI\bin\Debug\itextsharp.xmlworker.dll
+E:\QLHS\QLHS\GUI\bin\Debug\BUS.pdb
+E:\QLHS\QLHS\GUI\bin\Debug\DAT.pdb
+E:\QLHS\QLHS\GUI\bin\Debug\DTO.pdb
+E:\QLHS\QLHS\GUI\bin\Debug\itextsharp.xml
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmDangKy.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmQuanLyLopHoc.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmHocSinh.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmQuanLyHocSinh.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmQuanLyMonHoc.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmQuanTri.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmQuyDinh.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmThongTinPhanMem.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.frmTraCuu.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QLHS\QLHS\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
